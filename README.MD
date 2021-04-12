@@ -10,4 +10,4 @@
 >>#### Pre-training.py - Instructions for pretrain the models
 >>#### transfer-learning.py - Instructions to implement the transfer learning for the pre-trained models.
 ### Dataset
->>#### At present, we have not decided how to uploard large capacity dataset. Will be confirmed after consultation with editor.
+>>#### We have already uploaded Simulated Dataset.
